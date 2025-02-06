@@ -1,0 +1,8 @@
+.env
+*/.env
+*/Include
+Include
+*/Lib
+Lib
+*/Scripts/
+Script/*
